@@ -1,5 +1,5 @@
 {
-  "name": "test 2",
+  "name": "test 3",
   "description": "gay",
   "authors": [
     {
@@ -237,7 +237,7 @@
   "background": {
     "url": "https://i.pinimg.com/736x/ad/c5/ee/adc5ee1043ddceb20c8a478e2bf8919a.jpg",
     "blur": 0.5,
-    "alpha": 2,
+    "alpha": 0.60,
     "size": "cover",
     "position": "center"
   },
