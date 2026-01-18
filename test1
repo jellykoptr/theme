@@ -235,9 +235,9 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://i.pinimg.com/736x/ad/c5/ee/adc5ee1043ddceb20c8a478e2bf8919a.jpg",
+    "url": "https://i.pinimg.com/1200x/bf/3f/89/bf3f8932b8ec41fb1ddb57fdf61c1f3b.jpg",
     "blur": 0.5,
-    "alpha": 0.40,
+    "alpha": 0.30,
     "size": "cover",
     "position": "center"
   },
