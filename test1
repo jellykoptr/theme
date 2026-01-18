@@ -9,13 +9,13 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#000000"
+       "url": "https://i.pinimg.com/736x/6b/c8/e8/6bc8e889d216ec6c63253d7fa4243bee.jpg",
     ],
     "BACKGROUND_ACCENT": [
-      "#121212"
+     "url": "https://i.pinimg.com/736x/6b/c8/e8/6bc8e889d216ec6c63253d7fa4243bee.jpg",
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000"
+       "url": "https://i.pinimg.com/736x/6b/c8/e8/6bc8e889d216ec6c63253d7fa4243bee.jpg",
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#121212"
@@ -135,10 +135,10 @@
       "#000000"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#000000"
+       "url": "https://i.pinimg.com/736x/6b/c8/e8/6bc8e889d216ec6c63253d7fa4243bee.jpg",
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#000000"
+     "url": "https://i.pinimg.com/736x/6b/c8/e8/6bc8e889d216ec6c63253d7fa4243bee.jpg",
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
       "#000000"
@@ -159,7 +159,7 @@
       "#000000"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
+     "url": "https://i.pinimg.com/736x/6b/c8/e8/6bc8e889d216ec6c63253d7fa4243bee.jpg",
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#FFFFFF"
