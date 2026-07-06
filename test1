@@ -9,13 +9,13 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-       "#E67B75"
+       "#084a57"
     ],
     "BACKGROUND_ACCENT": [
      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#E67B75"
+      "#084a57"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#121212"
@@ -237,7 +237,7 @@
   "background": {
     "url": "https://pbs.twimg.com/media/Ge4k-KGW4AAU4AP?format=jpg&name=4096x4096",
     "blur": 0.5,
-    "alpha": 1,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   },
