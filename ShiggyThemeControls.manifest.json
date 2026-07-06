@@ -1,0 +1,7 @@
+{
+  "name": "ShiggyThemeControls",
+  "author": "jellykoptr",
+  "version": "1.0.0",
+  "description": "Ajoute des curseurs pour régler l'opacité (alpha) et le flou (blur) de l'overlay de thème.",
+  "main": "https://raw.githubusercontent.com/jellykoptr/theme/main/ShiggyThemeControls.plugin.js"
+}
